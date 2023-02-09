@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rawg-db",
+    "slug": "rawg-db",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rawg-db"
+}
